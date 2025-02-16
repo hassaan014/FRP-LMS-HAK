@@ -1,0 +1,12 @@
+{
+  "students": [],
+  "teachers": [
+    {
+      "name": "Hassaan ahmed khan",
+      "email": "hassaanahmed13k@gmail.com",
+      "subject": "Mathematics",
+      "class": "12",
+      "id": 1
+    }
+  ]
+}
